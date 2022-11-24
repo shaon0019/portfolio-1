@@ -1,0 +1,134 @@
+.sas1 {
+    color: orange;
+}
+
+.sas2 {
+    color: black;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.sas10 {
+    line-height: 27px;
+}
+
+.top-banner {
+    background-repeat: no-repeat;
+}
+
+.sas3 {
+    width: 60%;
+    padding-right: 0px;
+    padding-left: 5%;
+}
+
+.sas4 {
+    width: 70%;
+    padding-left: 14%;
+}
+
+.buttom1 {
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    text-decoration-line: none;
+    font-weight: 700;
+
+    padding: 13px 40px;
+    border-radius: 10px;
+}
+
+section {
+    display: flex;
+}
+
+.mydream {
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-position: bottom right;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+
+
+}
+
+.sasdiv {
+    width: 60%;
+    padding-top: 0%;
+}
+
+.sasdiv2 {
+    width: 40%;
+    padding-top: 8%;
+    padding-left: 0px;
+    padding-right: 40px;
+}
+
+.texdoc {
+    background-image: linear-gradient(orange, rgb(15, 15, 24));
+    color: rgb(255, 255, 255);
+    text-decoration-line: none;
+    padding: 10px 20px;
+    border-radius: 15px;
+
+
+
+}
+
+.ex1 {
+    width: 50%;
+    padding-left: 3%;
+    padding-right: 1%;
+
+    box-shadow: 10px 10px 40px grey;
+    margin: 3%;
+    margin-bottom: 16%;
+    margin-top: 0%;
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+    padding-top: 1%;
+
+
+}
+
+.ex2 {
+
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 5%;
+    padding-top: 1%;
+
+    box-shadow: 10px 10px 50px grey;
+    margin: 3%;
+    margin-bottom: 16%;
+    border-left: 7px orange solid;
+    margin-top: 0%;
+
+
+}
+
+.ex3 {
+    padding-top: 10%;
+    margin-bottom: 0%;
+}
+
+.sasc {
+    color: orange;
+}
+
+.sasf {
+    text-align: center;
+    color: red;
+}
+@media screen {
+    
+}
+    
